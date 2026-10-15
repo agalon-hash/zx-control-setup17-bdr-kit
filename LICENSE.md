@@ -1,68 +1,54 @@
-# Licença de Uso Comercial — BDR Kit Self-Install
+# Licença de Uso — ZX Control 7 · Setup 17
 
-**Copyright © 2026 Álvaro Gabriel. Todos os direitos reservados.**
-
----
-
-## 1. Concessão de licença
-
-Ao adquirir este software ("BDR Kit"), o comprador recebe uma licença **pessoal, intransferível e não exclusiva** para instalar e operar o BDR Kit em sua própria operação comercial, conforme o tipo de licença adquirido:
-
-| Tipo | O que está incluído |
-|---|---|
-| **Licença Individual** | Uso em 1 (uma) operação comercial do próprio comprador |
-| **Licença de Equipe** | Uso em até N operações definidas no momento da compra |
-| **Licença de Instrutor** | Distribuição para alunos cadastrados individualmente por Álvaro Gabriel |
-
-O tipo de licença adquirido consta no recibo de compra. Em caso de dúvida, fale com o suporte ZX LAB em **https://suporte.zxlab.com.br/hub** ou **contato@zxlab.com.br**.
+**Copyright © 2026 ZX LAB. Todos os direitos reservados.**
 
 ---
 
-## 2. Restrições
+## 1. Quem pode usar
 
-É **expressamente proibido**, sob qualquer circunstância:
+Este setup faz parte do **ZX Control** e pode ser usado por quem tem acesso ativo ao ZX Control da ZX LAB ("aluno").
 
-1. **Redistribuir** este software, no todo ou em parte, a qualquer terceiro não identificado como usuário licenciado no momento da compra
-2. **Sublicenciar** ou ceder os direitos de uso a terceiros
-3. **Revender**, comercializar ou monetizar o software ou qualquer derivado dele
-4. **Disponibilizar publicamente** o código-fonte, a documentação ou qualquer arquivo deste kit em repositórios públicos, fóruns, grupos ou qualquer meio de acesso irrestrito
-5. **Remover ou alterar** este aviso de licença, os comentários de watermark ou qualquer identificação de autoria no código
-6. **Usar este software** para criar um produto concorrente ao BDR Kit
+O aluno recebe uma licença **pessoal, intransferível e não exclusiva** para clonar, instalar, configurar e operar o setup na própria operação comercial ou na operação dos clientes que ele atende.
 
-Para licença de instrutor (distribuição para alunos), é obrigatório o cadastro prévio de cada aluno junto a Álvaro Gabriel. A distribuição não autorizada para alunos viola esta licença mesmo que seja gratuita.
+O código fica em repositório público para facilitar a instalação. Estar público **não** transforma o setup em software livre: o uso continua sujeito a esta licença.
 
 ---
 
-## 3. Atualizações e suporte
+## 2. O que é permitido
 
-O comprador tem direito a atualizações e suporte conforme o plano adquirido no momento da compra. Licenças inativas ou revogadas por violação dos termos perdem o direito a atualizações imediatamente.
+1. Instalar o setup em quantos computadores da própria operação precisar.
+2. Adaptar o código, os textos e as configurações ao próprio nicho, cliente ideal e tom de voz.
+3. Usar o setup para prospectar para a própria empresa ou para clientes da própria agência.
 
 ---
 
-## 4. Rastreabilidade
+## 3. O que é proibido
 
-Este software contém identificadores únicos por licença (watermark) que permitem rastrear a origem de qualquer cópia não autorizada. O comprador está ciente e consente com a presença desses identificadores.
+1. **Revender**, sublicenciar, alugar ou cobrar pelo setup, no todo ou em parte, como produto, curso, template ou serviço de instalação.
+2. **Redistribuir** o setup ou uma versão modificada dele fora do repositório oficial da ZX LAB.
+3. **Usar o setup para criar produto concorrente** ao ZX Control.
+4. **Remover** este aviso de licença ou a identificação da ZX LAB.
+
+---
+
+## 4. Responsabilidade pelo uso
+
+O setup é fornecido "como está", sem garantia de resultado comercial.
+
+O aluno é o único responsável pelas mensagens que aprova e envia, pelos dados de leads que coleta e armazena, e pelo cumprimento da legislação aplicável (incluindo a LGPD) e das políticas de uso do WhatsApp, da Meta e das demais plataformas integradas.
 
 ---
 
 ## 5. Rescisão
 
-Esta licença é rescindida automaticamente, sem aviso prévio, caso qualquer das restrições acima seja violada. Após a rescisão, o comprador deve cessar o uso e excluir todas as cópias do software.
+A licença termina quando o acesso do aluno ao ZX Control termina ou quando qualquer item da seção 3 é descumprido. Na rescisão por descumprimento, o aluno deve parar de usar o setup e apagar suas cópias.
 
 ---
 
-## 6. Limitação de responsabilidade
+## 6. Legislação aplicável
 
-Este software é fornecido "como está". Álvaro Gabriel não garante que o software seja adequado para qualquer finalidade específica, nem se responsabiliza por resultados comerciais decorrentes de seu uso.
-
-O comprador é inteiramente responsável pela conformidade do uso com a legislação aplicável, incluindo as políticas de uso do WhatsApp e da Meta.
+Esta licença é regida pelas leis da República Federativa do Brasil.
 
 ---
 
-## 7. Legislação aplicável
-
-Esta licença é regida pelas leis da República Federativa do Brasil. Eventuais disputas serão dirimidas no foro da comarca de Vitória, Estado do Espírito Santo.
-
----
-
-*Para solicitar licença de equipe, licença de instrutor ou tirar dúvidas sobre esta licença, fale com o suporte ZX LAB: https://suporte.zxlab.com.br/hub · contato@zxlab.com.br*
+*Dúvidas sobre esta licença ou sobre o setup: suporte ZX LAB em https://suporte.zxlab.com.br/hub · contato@zxlab.com.br*
