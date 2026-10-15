@@ -43,7 +43,7 @@ export async function generate({ client_id, ref_month, custom_description = null
 
   const markdown = `# PRÉ-NOTA DE SERVIÇOS
 
-**AGALON**
+**ZX LAB**
 ${seller ? `Responsável: ${seller.name}` : ''}
 Documento gerado em ${today}
 
@@ -85,7 +85,7 @@ ${client.notes ? `\n**Observações do contrato:** ${client.notes}\n` : ''}
 
 ---
 
-*Documento gerado automaticamente pelo CRM Agalon.*
+*Documento gerado automaticamente pelo CRM ZX LAB.*
 `;
 
   // Salva no histórico

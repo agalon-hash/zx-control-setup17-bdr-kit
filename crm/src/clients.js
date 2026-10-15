@@ -1,5 +1,5 @@
 // crm/src/clients.js
-// Clientes ativos da Agalon. Schema com tipo de cobrança (mensal/único/personalizado),
+// Clientes ativos da sua operação. Schema com tipo de cobrança (mensal/único/personalizado),
 // vínculo com pacote, vendedor responsável e membros de equipe alocados.
 // Conversão a partir de lead: pré-popula campos com dados do lead.
 

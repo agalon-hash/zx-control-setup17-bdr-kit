@@ -1,5 +1,5 @@
 // crm/src/costs.js
-// Custos operacionais da Agalon. Categorias: equipe, assinatura, imposto, marketing, outro.
+// Custos operacionais da sua operação. Categorias: equipe, assinatura, imposto, marketing, outro.
 // Recorrência: mensal | anual | unico
 // Para anual, calcula valor mensalizado pra dashboard MRR/EBITDA.
 
